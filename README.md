@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 Crud completo de uma API de cadastro de clientes com validações, buscas, filtros. Nesse projeto foram incluídas validações nos modelos e nos serializers da aplicação 
-Foi desenvolvido também sistema de mensagens de erro. 
+Foi desenvolvido também sistema de mensagens de erro e utilizado alguns módulos Python. 
 
 
 
