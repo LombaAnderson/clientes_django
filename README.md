@@ -3,9 +3,10 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/clientes_django/blob/main/LICENSE)
 
 # Sobre o projeto
+Crud completo de API de cadastro de clientes 
 
 
-## Imagem de exemplo de cadastro de livros
+## Imagem de exemplo de cadastro de clientes
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/165668592-f3aba688-39b3-4d1c-b77c-e437c7798a7f.png" width="700" />
 </div>
