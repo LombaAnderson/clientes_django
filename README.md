@@ -7,7 +7,7 @@
 
 ## Imagem de exemplo de cadastro de livros
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/145520946-99122343-e0f7-425c-b78f-2df14ce928be.png" width="700" />
+<img src="https://user-images.githubusercontent.com/60937513/165668592-f3aba688-39b3-4d1c-b77c-e437c7798a7f.png" width="700" />
 </div>
 
 # principais Tecnologias utilizadas
