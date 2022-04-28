@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/clientes_django/blob/main/LICENSE)
 
 # Sobre o projeto
-Crud completo de uma API de cadastro de clientes com validações, buscas, filtros. Nesse projeto foram incluídas validações nos modelos e nos serializers da aplicação 
+Crud completo de uma API de cadastro de clientes com validações, buscas, filtros. Nesse projeto foram incluídas validações nos modelos e nos serializers da aplicação. 
 Foi desenvolvido também sistema de mensagens de erro e utilizado alguns módulos Python. 
 
 
